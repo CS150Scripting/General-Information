@@ -4,5 +4,9 @@ General Information
 2. [Class Discord Channel](https://discord.gg/SamsrggQgR)
 3. [Visual Studio Code](https://code.visualstudio.com)
 
-#Perl Book Git Hub
+JavaScript Hub
+
+VBScript Hub
+
+Perl Book Git Hub
 * https://resources.oreilly.com/examples/9780596004927
