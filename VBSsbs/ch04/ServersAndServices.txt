@@ -1,0 +1,5 @@
+s1, lanmanWorkstation, lanmanServer
+s2, lanmanServer, lanmanWorkstation
+s3, DHCP, lanmanServer, lanmanWorkstation
+s4, WINS, lanmanServer
+s5, DNS 

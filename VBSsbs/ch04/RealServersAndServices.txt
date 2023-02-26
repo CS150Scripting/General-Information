@@ -1,0 +1,3 @@
+localHost,lanmanWorkstation,lanmanServer
+127.0.0.1,lanmanServer,lanmanWorkstation,Alerter
+loopback,spooler,clipSrv,DnsCache,Browser,DHCP,Messenger

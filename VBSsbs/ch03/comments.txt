@@ -1,0 +1,2 @@
+Text File used for the GetComments.vbs script. This line will be overwritten when
+the file is opened for writing. When opened for appending, this text will be appended to.
